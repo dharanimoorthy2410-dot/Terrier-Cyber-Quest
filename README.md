@@ -5,6 +5,6 @@ This project proposes a hybrid AI + Quantum Machine Learning model for detecting
 It combines host signals (processes, registry, file ops) with network traces (DNS, TLS metadata) to achieve sub-second anomaly alerts.  
 
 ## Resources  
-📄 [Presentation PDF].  
+📄 (https://github.com/dharanimoorthy2410-dot/Terrier-Cyber-Quest/blob/main/Terrier-Cyber-Quest.pdf).  
 
 ---
